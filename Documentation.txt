@@ -1,0 +1,1 @@
+This is a txt where explains , what are these screens, these screens are an e-commerce that sells sneakers, this is thinking in a mobile and pwa application. Then all the screens are defined by you can see, they have a register, sign up, a menu, a cart, profile, a pay method.
